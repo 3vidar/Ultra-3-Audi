@@ -1,4 +1,4 @@
-# Ultra Driver Audi - V2
+# Carlinkit Ultra 3 Driver Audi - V2
 
 V8 dongle modification for wireless CarPlay with an existing Audi Virtual Cockpit CarPlay extension.
 
